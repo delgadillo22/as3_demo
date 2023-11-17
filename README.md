@@ -11,7 +11,11 @@ Here I'll provide a video demo using Postman to configure BIG-IP and also make s
 
 File Info:
 
-Initial Declaration:
+**Basic AS3 Demo.mp4:**
+- Demo video
+
+**Initial Declaration:**
+
 Initial AS3 JSON declaration which enables: 
 - Basic HTTP service with single VIP
 - 2 pool members
