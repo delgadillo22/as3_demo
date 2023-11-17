@@ -26,5 +26,9 @@ Initial AS3 JSON declaration which enables:
 Adds 2 new pool members
 
 **Low resolution demo video here (download full resolution video above)**
-https://github.com/delgadillo22/as3_demo/assets/23509342/b372ced5-3c79-48db-b4f1-edc446a2579b
+
+
+
+
+https://github.com/delgadillo22/as3_demo/assets/23509342/fbb89dfc-3472-46f9-8568-80072d13f64c
 
