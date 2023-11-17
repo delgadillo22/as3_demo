@@ -1,4 +1,4 @@
-# as3_demo
+# AS3 Demo
 Basic AS3 demo for F5 BIG-IP
 
 This is a basic demo showing how to use the Application Services 3 (AS3) extension on F5 BIG-IP.
