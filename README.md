@@ -8,3 +8,11 @@ AS3 provides a declarative API in which you specify a desired configuration end-
 Here I'll provide a video demo using Postman to configure BIG-IP and also make simple changes to the configuration using AS3.
 
 ![image](https://github.com/delgadillo22/as3_demo/assets/23509342/09afa938-c5ea-45c2-a2b7-f0794f8d4722)
+
+File Info:
+
+Initial Declaration:
+Initial AS3 JSON declaration which enables: 
+- Basic HTTP service with single VIP
+- 2 pool members
+- HTTP monitor
