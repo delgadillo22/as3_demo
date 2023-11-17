@@ -20,3 +20,8 @@ Initial AS3 JSON declaration which enables:
 - Basic HTTP service with single VIP
 - 2 pool members
 - HTTP monitor
+
+**Second Declaration:**
+
+Adds 2 new pool members
+
